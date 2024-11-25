@@ -1,10 +1,10 @@
 ## Certifications
 
-## CompTIA
+### CompTIA
 - [A+](https://github.com/hammer-and-anvil/certifications/blob/main/images/CompTIA/CompTIA%20A%2B%20ce%20certificate.pdf)
 - [Security+](https://github.com/hammer-and-anvil/certifications/blob/main/images/CompTIA/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
-## ISC<sup>2</sup>
+### ISC<sup>2</sup>
 - [CC](https://github.com/hammer-and-anvil/certifications/blob/main/images/ISC2/ISC2%20CC%20digitalcert.pdf)
 
 ### Microsoft
@@ -21,7 +21,7 @@
 - [Understanding Social Engineering Attacks](https://github.com/hammer-and-anvil/certifications/blob/main/images/TEEX/AWR-367%20Understanding%20Social%20Engineering%20Attacks%20-%20Certificate.pdf)
 
 ### Credly Digital Badges
-- *Comptia A+, Comptia Security+, ISC<sup>2</sup> CC, Google IT:* [Credly](https://www.credly.com/users/michael-leone.aa3244b4)
+- *Comptia A+, Comptia Security+, ISC<sup>2</sup> CC, Google IT Support:* [Credly](https://www.credly.com/users/michael-leone.aa3244b4)
 
 
 
